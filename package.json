@@ -1,0 +1,22 @@
+{
+    "name": "new_note_taker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jos23867/new_note_taker.git"
+    },
+    "author": "Jose J. Guerrero",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/jos23867/new_note_taker/issues"
+    },
+    "homepage": "https://github.com/jos23867/new_note_taker#readme",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
